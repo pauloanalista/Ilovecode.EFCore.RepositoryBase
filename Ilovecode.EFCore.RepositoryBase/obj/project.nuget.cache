@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDf6fwEHoJiL8BD7W3aLf8QjK3SIi/GZ8Vil8QcqAhtRUa4x7c4jOb4wperzkNpuX2lUAqlEeE8ggHr7zFn9lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paulo\\Documents\\Downloads\\Ilovecode.EFCore.RepositoryBase\\Ilovecode.EFCore.RepositoryBase\\Ilovecode.EFCore.RepositoryBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.12\\microsoft.entityframeworkcore.5.0.12.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.12\\microsoft.entityframeworkcore.abstractions.5.0.12.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.12\\microsoft.entityframeworkcore.analyzers.5.0.12.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
