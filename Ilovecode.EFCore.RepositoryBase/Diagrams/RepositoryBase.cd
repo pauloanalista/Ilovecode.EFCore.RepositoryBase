@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ilovecode.EF.Repository.RepositoryBase&lt;TEntity&gt;">
+    <Position X="6.25" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAYAGIAAASAABAAAAAAAIAEAAAEIAgAAAgAAAAEAAAA=</HashCode>
+      <FileName>RepositoryBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Ilovecode.EF.Repository.Transactions.UnitOfWork">
+    <Position X="2.75" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAABgAABICAAAIAAACAAAAAQBAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Transactions\UnitOfWork.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

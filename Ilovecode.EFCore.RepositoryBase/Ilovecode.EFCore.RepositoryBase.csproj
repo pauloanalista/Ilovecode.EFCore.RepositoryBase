@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Authors>Paulo Rogério Martins Marques</Authors>
+    <Company>ILOVECODE</Company>
+    <Description>Fornece os principais métodos para seu repositorio que utiliza Entity Framework.
+- Crud (Completo)
+
+Deixe seu repositórios vazio, simplesmente herdando este repositório
+
+Métodos disponíveis nesta primeira versão
+- IQueryable&lt;TEntidade&gt; ListBy
+- TEntidade GetBy
+- bool Exists
+- IQueryable&lt;TEntidade&gt; List
+- TEntidade Add
+- TEntidade Update
+-  void Delete
+
+Participe do grupo de estudos gratuitamente
+https://olha.la/ilovecode</Description>
+    <PackageIcon>icon.png</PackageIcon>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageTags>paulorogerio, paulo, RepositoryBase, entity, entityframework, entity framework, crud, ef, repository, repositories, ilovecode, Microsoft.EntityFrameworkCore, Microsoft.EntityFramework</PackageTags>
+    <PackageProjectUrl>https://github.com/pauloanalista/Ilovecode.EF.RepositoryBase</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/pauloanalista/Ilovecode.EF.RepositoryBase</RepositoryUrl>
+    <Copyright>Paulo Rogério Martins Marques</Copyright>
+    <FileVersion>1.0.1.0</FileVersion>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
