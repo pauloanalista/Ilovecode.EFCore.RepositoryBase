@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("ILOVECODE")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Paulo Rogério Martins Marques")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute(@"
 		Fornece suporte a transações e os principais métodos para seus repositorios que utilizam Entity Framework Core.

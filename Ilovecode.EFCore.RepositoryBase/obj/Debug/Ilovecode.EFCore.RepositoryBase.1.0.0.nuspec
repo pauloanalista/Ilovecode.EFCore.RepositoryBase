@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ilovecode.EFCore.RepositoryBase</id>
+    <version>1.0.0</version>
+    <authors>Paulo Rogério Martins Marques</authors>
+    <icon>icon.png</icon>
+    <projectUrl>https://github.com/pauloanalista/Ilovecode.EFCore.RepositoryBase</projectUrl>
+    <description>Fornece suporte a transações e os principais métodos para seus repositorios que utilizam Entity Framework Core.
+
+		Métodos disponíveis para seu repositório
+		- GetAll
+		- GetAllBy
+		- GetBy
+		- GetByAsync
+		- Exists
+		- ExistsAsync
+		- Add
+		- AddAsync
+		- AddCollection
+		- AddCollectionAsync
+		- Update
+		- Delete
+		- DeleteCollection
+
+
+		Participe do grupo de estudos gratuitamente
+		https://olha.la/ilovecode</description>
+    <copyright>Paulo Rogério Martins Marques</copyright>
+    <tags>paulorogerio, paulo, RepositoryBase, entity, entityframework, entity framework, crud, ef, repository, repositories, ilovecode, Microsoft.EntityFrameworkCore, Microsoft.EntityFramework</tags>
+    <repository url="https://github.com/pauloanalista/Ilovecode.EFCore.RepositoryBase" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Microsoft.EntityFrameworkCore" version="5.0.12" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Paulo\Documents\Downloads\Ilovecode.EFCore.RepositoryBase\Ilovecode.EFCore.RepositoryBase\bin\Debug\netstandard2.1\Ilovecode.EFCore.RepositoryBase.dll" target="lib\netstandard2.1\Ilovecode.EFCore.RepositoryBase.dll" />
+    <file src="C:\Users\Paulo\Documents\Downloads\Ilovecode.EFCore.RepositoryBase\Ilovecode.EFCore.RepositoryBase\icon.png" target="icon.png" />
+  </files>
+</package>

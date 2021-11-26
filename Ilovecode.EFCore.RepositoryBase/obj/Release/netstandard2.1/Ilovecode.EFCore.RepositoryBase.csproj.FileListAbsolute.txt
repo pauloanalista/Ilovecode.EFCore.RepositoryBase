@@ -1,0 +1,10 @@
+C:\Users\Paulo\Documents\Downloads\Ilovecode.EFCore.RepositoryBase\Ilovecode.EFCore.RepositoryBase\bin\Release\netstandard2.1\icon.png
+C:\Users\Paulo\Documents\Downloads\Ilovecode.EFCore.RepositoryBase\Ilovecode.EFCore.RepositoryBase\bin\Release\netstandard2.1\Ilovecode.EFCore.RepositoryBase.deps.json
+C:\Users\Paulo\Documents\Downloads\Ilovecode.EFCore.RepositoryBase\Ilovecode.EFCore.RepositoryBase\bin\Release\netstandard2.1\Ilovecode.EFCore.RepositoryBase.dll
+C:\Users\Paulo\Documents\Downloads\Ilovecode.EFCore.RepositoryBase\Ilovecode.EFCore.RepositoryBase\bin\Release\netstandard2.1\Ilovecode.EFCore.RepositoryBase.pdb
+C:\Users\Paulo\Documents\Downloads\Ilovecode.EFCore.RepositoryBase\Ilovecode.EFCore.RepositoryBase\obj\Release\netstandard2.1\Ilovecode.EFCore.RepositoryBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Downloads\Ilovecode.EFCore.RepositoryBase\Ilovecode.EFCore.RepositoryBase\obj\Release\netstandard2.1\Ilovecode.EFCore.RepositoryBase.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Downloads\Ilovecode.EFCore.RepositoryBase\Ilovecode.EFCore.RepositoryBase\obj\Release\netstandard2.1\Ilovecode.EFCore.RepositoryBase.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Downloads\Ilovecode.EFCore.RepositoryBase\Ilovecode.EFCore.RepositoryBase\obj\Release\netstandard2.1\Ilovecode.EFCore.RepositoryBase.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Downloads\Ilovecode.EFCore.RepositoryBase\Ilovecode.EFCore.RepositoryBase\obj\Release\netstandard2.1\Ilovecode.EFCore.RepositoryBase.dll
+C:\Users\Paulo\Documents\Downloads\Ilovecode.EFCore.RepositoryBase\Ilovecode.EFCore.RepositoryBase\obj\Release\netstandard2.1\Ilovecode.EFCore.RepositoryBase.pdb
