@@ -32,11 +32,7 @@ Para instalar utilize o seguinte comando abaixo ou procure no Manage Nuget Packa
 ```sh
 Install-Package Ilovecode.EFCore.RepositoryBase -Version 1.0.0
 ```
-ou acesse pelo gerenciador de pacotes do Visual Studio e instale no projeto desejado
-
-![image](https://user-images.githubusercontent.com/6010161/141309513-9e4abaee-09f5-4fbb-ad56-5b2a583a0f46.png)
-
-
+ou acesse pelo gerenciador de pacotes do Visual Studio e instale no projeto desejado.
 
 | Package |  Version | Downloads |
 | ------- | ----- | ----- |
@@ -47,21 +43,26 @@ Instale em seu projeto onde se encontra sua interface do repositório e onde se 
  
 ### Interface do repositório
 
- ![image](https://user-images.githubusercontent.com/6010161/141309893-8d7a44df-a147-4645-aa6c-d34f75c57367.png)
+ ![image](https://user-images.githubusercontent.com/6010161/143608504-124c1c8f-00cf-4e9b-8972-2ec70e6054e1.png)
 
 ### Classe concreta do repositório
 
-![image](https://user-images.githubusercontent.com/6010161/141310075-57b47041-9d84-4e9e-adb6-e3ac29cd2d02.png)
+![image](https://user-images.githubusercontent.com/6010161/143608587-649bc678-ecd3-406a-a614-b5ef7b6a1352.png)
 
 ### Crud está pronto, basta usar os métodos disponíveis
-- IQueryable<TEntidade> ListBy
-- TEntidade GetBy
-- bool Exists
-- IQueryable<TEntidade> List
-- TEntidade Add
-- TEntidade Update
--  void Delete
-
+- GetAll
+- GetAllBy
+- GetBy
+- GetByAsync
+- Exists
+- ExistsAsync
+- Add
+- AddAsync
+- AddCollection
+- AddCollectionAsync
+- Update
+- Delete
+- DeleteCollection
 ### Veja alguns exemplos
 #### Adicionando uma entidade
 ```csharp
